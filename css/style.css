@@ -1,0 +1,49 @@
+body {
+    background-color: #F7F7F7;
+}
+
+div {
+    background-color: #F7F7F7;
+    text-align: center;
+    width: 500px;
+    margin: 10px auto;
+    line-height: 28px;
+}
+
+h1 {
+    font-size: 22px;
+    font-family: roboto;
+    color: #37363C;
+}
+
+h2 {
+    font-size: 18px;
+    font-family: roboto;
+    color: #757575;
+}
+
+p {
+    font-size: 16px;
+    font-family: roboto;
+}
+
+a {
+    text-decoration: none;
+    margin: 0 10px;
+}
+
+.imagem-logo {
+    width: 150px;
+}
+
+.imagem-rede-social {
+    width: 40px;
+}
+
+.texto-negrito {
+    font-weight: bold;
+}
+
+.texto-vermelho {
+    color: red;
+}
